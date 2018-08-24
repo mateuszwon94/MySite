@@ -42,6 +42,7 @@
     <Compile Include="PacMan\settings.py" />
     <Compile Include="PacMan\urls.py" />
     <Compile Include="PacMan\wsgi.py" />
+    <Compile Include="passenger_wsgi.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="app\" />
@@ -72,6 +73,7 @@
     <Folder Include="public\static\app\scripts\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="FolderProfile.pubxml" />
     <Content Include="public\static\admin\css\autocomplete.css" />
     <Content Include="public\static\admin\css\base.css" />
     <Content Include="public\static\admin\css\changelists.css" />
