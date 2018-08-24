@@ -1,5 +1,5 @@
 """
-Definition of urls for PacMan.
+Definition of urls for public_python.
 """
 
 from datetime import datetime
